@@ -9,6 +9,10 @@ body {
   color: black;
   font-family: Arial;
 }
+.list {
+  text-align: left;
+  font-family: ;
+}
 p {
   font-size: 150%;
 }
