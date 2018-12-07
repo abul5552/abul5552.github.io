@@ -1,8 +1,13 @@
 body {
   background: lightgray;
   color: grey;
+  font-family: Calibri;
 }
 .header {
   text-align: center;
   color: black;
+  font-family: Arial;
+}
+p {
+  font-size: 150%;
 }
